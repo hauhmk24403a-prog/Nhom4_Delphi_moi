@@ -1,0 +1,11 @@
+CÁCH MỞ BÀI TRÌNH BÀY DELPHI – NHÓM 4
+
+1. Giải nén cả thư mục Nhom4_Delphi, giữ file HTML và thư mục "video" nằm cạnh nhau.
+2. Mở Nhom4_Delphi_Trinh_bay.html bằng Chrome hoặc Edge (đợi vài giây cho file tải xong).
+   Có thư mục "video" bên cạnh thì video phát bản HD 720p (góc video ghi "HD 720p").
+   Nếu chỉ chép riêng file HTML, video vẫn xem được nhưng là bản nhẹ, độ nét thấp hơn.
+3. Phím → / ← : chuyển slide · O : tổng quan · N : lời thoại · F : toàn màn hình.
+4. Slide "Từ ý kiến chuyên gia đến phiếu khảo sát": bấm "Xem phiếu vòng 2 / vòng 3" để xem phiếu ngay trong file.
+5. Slide "Chuyên gia đưa ra 5 ...": bấm từng nhận định để mở video của chuyên gia đồng tình (giao diện kiểu YouTube).
+   Danh sách bên phải để chọn chuyên gia, Esc để đóng.
+6. Slide đồng thuận: nút "Xem số liệu tính toán" hiện Ne/N, CVR, I-CVI, Mean, Q, V.
